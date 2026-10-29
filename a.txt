@@ -1,0 +1,11 @@
+KPC map mat mother matchKPC 
+KPC m[ao]t 010-[0-9]{4}-[0-9]{4}KPC 
+KPC [가-힣]{2,4}KPC 
+KPC 홍길동1234010-1111-1111연습010-12a4-5678KPC 
+KPC 이순신 세종KPC 
+KPC map mat mother matchKPC 
+KPC 홍길동1234010-1111-1111연습010-12a4-5678KPC 
+KPC 이순신 세종KPC 
+KPC map mat mother matchKPC 
+KPC 홍길동1234010-1111-1111연습010-12a4-5678KPC 
+KPC 이순신 세종KPC 
