@@ -10,9 +10,9 @@ $conn = connectDB();
 // cmd가 없으면 init
 $cmd = $_GET['cmd'] ?? "init";
 
-$ip1 = rand(1, 255);
-$ip2 = rand(1, 255);
-$ip3 = rand(1, 255);
+$ip1 = rand(111, 115);
+$ip2 = rand(1, 30);
+$ip3 = rand(1, 50);
 $ip4 = rand(1, 255);
 
 $ip = $_SERVER["REMOTE_ADDR"];

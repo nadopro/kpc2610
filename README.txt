@@ -1,7 +1,84 @@
 1. 환경 설치
 
+    javascript:alert(document.cookie);
 	download xampp
 	download visual code
+
+    localhost/generate.php
+
+how secure
+
+
+$id = admin
+$pass = abcd
+
+select * from users where id='admin' and pass='abcd';
+
+
+$id = xxx' or 2>1 limit 1, 1 -- 
+$pass = abcd
+select * from users where id='xxx' or 2>1 -- ' and pass='abcd';
+
+download burp
+a.php
+a.php%20.jpg
+XSS : Cross Site Scripting
+
+X : DX, AX : trans
+X : Cross
+X : windows XP = Expert
+
+IP Address
+
+1.2.3.4 = 4B
+
+A class
+0000 0000
+0111 1111 , 0~127
+
+30.*.*.* : 1600만개
+10.*.*.* : 사설아이피 (공유기)
+127.0.0.1
+
+B class
+1000 0000 ~ 1011 1111 : 128~191
+150.12.*.* : 6만5천
+
+150.12.1~10.* 컴퓨
+172.16.*.*
+
+C class
+1100 0000 ~ 1101 1111 : 192~221
+200.17.37~40.*
+192.168.0.0~255
+
+
+   IPv4 주소 . . . . . . . . . : 192.168.103.27
+   서브넷 마스크 . . . . . . . : 255.255.255.0
+   기본 게이트웨이 . . . . . . : 192.168.103.1
+
+   1.2.3.4
+
+   0001 0010 0011 0100
+   1111 1111 1111 0000
+   0001 0010 0011 0000 = 1.2.3.0
+
+   0001 0010 0011 0101
+   1111 1111 1111 0000
+   0001 0010 0011 0000 = 1.2.3.0
+
+   0001 0010 0111 0101
+   1111 1111 1111 0000
+   0001 0010 0111 0000 = 1.2.7.0
+
+   256 - 16 = 240
+
+   255.255.255.240
+
+
+
+
+
 
 2. xampp control panel
 	Apache,  MySQL  실행

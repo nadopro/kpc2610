@@ -1,0 +1,20 @@
+insert into person (id, name, dept, score) values ('insert into person (id, name, dept, score)');
+insert into person (id, name, dept, score) values ('    values ('101', '임원정', '컴퓨터공학과', '62');');
+insert into person (id, name, dept, score) values ('\t');
+insert into person (id, name, dept, score) values ('','');
+insert into person (id, name, dept, score) values ('$');
+insert into person (id, name, dept, score) values ('');');
+insert into person (id, name, dept, score) values ('');
+insert into person (id, name, dept, score) values ('
+insert into person (id, name, dept, score) values ('^
+insert into person (id, name, dept, score) values ('insert into person (id, name, dept, score) values ('
+insert into person (id, name, dept, score) values ('101','임원정','컴퓨터공학과','62');
+insert into person (id, name, dept, score) values ('102','권원담','경영학과','80');
+insert into person (id, name, dept, score) values ('103','김하의','경영학과','68');
+insert into person (id, name, dept, score) values ('104','윤승의','전자공학과','84');
+insert into person (id, name, dept, score) values ('105','김신계','영문학과','61');
+insert into person (id, name, dept, score) values ('106','김우일','컴퓨터공학과','75');
+insert into person (id, name, dept, score) values ('107','최지재','컴퓨터공학과','60');
+insert into person (id, name, dept, score) values ('108','황만상','전자공학과','72');
+insert into person (id, name, dept, score) values ('109','정용인','소프트웨어학과','89');
+insert into person (id, name, dept, score) values ('110','송동창','사회학과','71');
