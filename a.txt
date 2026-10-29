@@ -1,11 +1,14 @@
-KPC map mat mother matchKPC 
-KPC m[ao]t 010-[0-9]{4}-[0-9]{4}KPC 
-KPC [가-힣]{2,4}KPC 
-KPC 홍길동1234010-1111-1111연습010-12a4-5678KPC 
-KPC 이순신 세종KPC 
-KPC map mat mother matchKPC 
-KPC 홍길동1234010-1111-1111연습010-12a4-5678KPC 
-KPC 이순신 세종KPC 
-KPC map mat mother matchKPC 
-KPC 홍길동1234010-1111-1111연습010-12a4-5678KPC 
-KPC 이순신 세종KPC 
+insert into users (id, name, age) values ('mat mother match');
+insert into users (id, name, age) values ('test 010-1234-5a78010-1234-5678이순신 홍길동');
+insert into users (id, name, age) values ('신사임당 이이 mat mother match');
+insert into users (id, name, age) values ('test 010-1234-5a78010-1234-5678이순신 홍길동');
+insert into users (id, name, age) values ('신사임당 이이map mother match');
+insert into users (id, name, age) values ('test 010-1234-5a78010-1234-5678이순신 홍길동');
+insert into users (id, name, age) values ('신사임당 이이 m[ao]t 010-[0-9]{4}-[0-9]{4}');
+insert into users (id, name, age) values ('');
+insert into users (id, name, age) values ('insert into users (id, name, age) values ('test', '테스트', '12');');
+insert into users (id, name, age) values ('');
+insert into users (id, name, age) values ('test','테스트','12');
+insert into users (id, name, age) values ('sslee','이순신','34');
+insert into users (id, name, age) values ('hong','홍길동','23');
+insert into users (id, name, age) values ('');
