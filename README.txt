@@ -75,7 +75,12 @@ C class
 
    255.255.255.240
 
+   http://daum.net
+   ftp://daum
+   
+   https://www.daum.net/
 
+    net craft webserver
 
 
 
@@ -916,7 +921,7 @@ Q16.
 선에다가 마우스를 올리면 둘 사이의 관계를 텍스트로 확인할 수 있도록 해줘.
 
 
-
+execCommand, wysiwyg 
 
 int myfunc(int a)
 {
